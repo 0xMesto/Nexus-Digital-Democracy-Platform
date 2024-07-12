@@ -11,7 +11,8 @@ Welcome to the Nexus project! Nexus is a revolutionary digital democracy platfor
 - [Roadmap](#roadmap)
 - [License](#license)
 - [Contact](#contact)
-
+##pitch and landing page:
+website : https://nexuss.tiiny.site/
 ## Introduction
 Nexus is designed to facilitate active civic participation through various features such as a liquid democracy voting system, discussion forums, real-time global activity feed, and more.
 
